@@ -1,16 +1,11 @@
-# tetopreto
+Interface desenvolvida baseada no design do meu amigo Gabriel Gomes para TetoPreto ®️
 
-A new Flutter project.
+Link do projeto no <a href="https://www.behance.net/gallery/139535651/Design-de-Interface-TetoPreto?tracking_source=search_projects%7Ctetopreto">Behance<a/>
 
-## Getting Started
+O principal aprendizado desse projeto foi entender melhor como AnimatedBuilder's funcionam e formas de se trabalham com animações Hero.
 
-This project is a starting point for a Flutter application.
+Prints do app
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1648954650](https://user-images.githubusercontent.com/65188332/161409544-563d72c4-c637-4e48-997b-25460c6eb03a.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1648954670](https://user-images.githubusercontent.com/65188332/161409571-eb8bcbd6-b511-4cd5-8c6c-2e623f747acf.png)
