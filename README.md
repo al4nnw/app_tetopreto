@@ -2,7 +2,7 @@ Interface desenvolvida baseada no design do meu amigo Gabriel Gomes para TetoPre
 
 Link do projeto no <a href="https://www.behance.net/gallery/139535651/Design-de-Interface-TetoPreto?tracking_source=search_projects%7Ctetopreto">Behance<a/>
 
-O principal aprendizado desse projeto foi entender melhor como AnimatedBuilder's funcionam e formas de se trabalham com animações Hero.
+O principal aprendizado desse projeto foi entender melhor como AnimatedBuilder's funcionam e formas de se trabalhar com animações Hero.
 
 Prints do app
 
